@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alekar-vip Alejandro Nieves
 - 👀 Me interesa todo lo que tiene que ver con tecnologia lo hago por gusto
-- 🌱 Actualmente estoy aprendiendo tecnologias de desarrollo Frontend y backend 
+- 🌱 Desarrollador full stack, Spring Boot, Angular 
 - 📫 How to reach me +57 3022943339
 
 <!---
